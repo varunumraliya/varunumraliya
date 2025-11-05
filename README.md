@@ -14,7 +14,8 @@ I’m seeking opportunities that challenge me to optimize performance, design ro
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varunumraliya)  [![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015c1eb184291ec9eb)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varunumraliya)  
+<!-- [![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015c1eb184291ec9eb)  -->
 
 ---
 
