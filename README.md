@@ -82,10 +82,12 @@ Here is an honest self-assessment of my core competencies, reflecting hands-on p
 
 ### 🤖 Artificial Intelligence & Agentic Workflows
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Autonomous AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-FF6B6B?style=for-the-badge)
-![Multi-Agent Workflows](https://img.shields.io/badge/Multi--Agent_Workflows-00C9A7?style=for-the-badge)
-![LLM Harnesses](https://img.shields.io/badge/LLM_Harnesses-6C5CE7?style=for-the-badge)
+![Autonomous AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-FF4655?style=for-the-badge&logo=robotframework&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Task Execution Pipelines](https://img.shields.io/badge/Task_Execution_Pipelines-00B894?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🎨 Frontend Engineering
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -237,7 +239,7 @@ Here is an honest self-assessment of my core competencies, reflecting hands-on p
 ### 4. 🏢 Vistaran AI Employees & Core Enterprise Platforms
 > **Production AI workers and multi-tenant platforms powering digital operations at [Vistaran Techtronix](https://vistaran.com).**
 
-![Autonomous AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-FF6B6B?style=for-the-badge)
+![Autonomous AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-FF4655?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -250,31 +252,17 @@ Here is an honest self-assessment of my core competencies, reflecting hands-on p
 ---
 
 <!-- ========================================================================= -->
-<!-- OPEN SOURCE & PERSONAL PROJECTS                                           -->
-<!-- ========================================================================= -->
-## 📦 Open Source & Personal Repositories
-
-| Repository | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **[YouTube Transcript Summarizer](https://github.com/varunumraliya/youtube-transcript-summarizer)** | Automated AI application to extract, parse, and generate structured summaries from YouTube video transcripts. | Python • NLP • AI | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/varunumraliya/youtube-transcript-summarizer) |
-| **[Keep Notes](https://github.com/varunumraliya/keep-notes)** | Full-stack note-taking platform with rich text editing, categorization, and cloud synchronization. | React • Node.js • Express • MongoDB | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/varunumraliya/keep-notes) |
-| **[Blog App](https://github.com/varunumraliya/blog-app)** | Dynamic blogging platform with markdown support, user authentication, and interactive comment streams. | React • Node.js • REST APIs | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/varunumraliya/blog-app) |
-| **[Weather WebApp](https://github.com/varunumraliya/weather-webapp)** | Real-time weather forecasting application with geolocation lookup, dynamic weather icons, and hourly breakdowns. | JavaScript • Weather APIs • CSS3 | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/varunumraliya/weather-webapp) |
-
----
-
-<!-- ========================================================================= -->
 <!-- PROFESSIONAL EXPERIENCE & TIMELINE                                        -->
 <!-- ========================================================================= -->
 ## 💼 Professional Experience
 
 ```mermaid
-flowchart LR
-    A["<b>2023: MERN Stack Intern</b><br>Trioncy Solution<br>• React UI & Express APIs<br>• MongoDB CRUD operations"] 
-    --> B["<b>2024: Full Stack Developer</b><br>Vistaran Techtronix<br>• Autonomous AI Agents<br>• Shipped Boomerr, SEO Wizard & Lushly<br>• Redis Caching (35% speedup)"]
-    --> C["<b>Present: Forward Deployed Engineer</b><br>Full Stack & Agentic AI<br>• Multi-Agent Workflows<br>• Scalable SaaS Architecture<br>• High-Availability Cloud Systems"]
+flowchart TD
+    A["<b>2023: MERN Stack Developer Intern</b> | <i>Trioncy Solution (Ahmedabad)</i><br/>• Developed responsive React.js interfaces and modular Node.js/Express.js backend services<br/>• Implemented MongoDB database operations and full-stack web applications"]
+    --> B["<b>2024 - Present: Full Stack Developer</b> | <i>Vistaran Techtronix Pvt. Ltd. (Gandhinagar)</i><br/>• Architected autonomous AI digital workers and multi-step task execution pipelines<br/>• Built and shipped core platforms: Boomerr.ai, Ai SEO Wizard, Lushly, and Vistaran AI Employees<br/>• Refactored relational schemas and added Redis caching, cutting average API response times by 35%"]
+    --> C["<b>Present: Forward Deployed Engineer & Agentic AI Developer</b><br/>• Leading multi-agent workflow systems, autonomous digital workers, and LLM harness pipelines<br/>• Engineering high-velocity SaaS architectures with Next.js 15, Laravel, Redis, and AWS"]
 
-    classDef stepCard fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9;
+    classDef stepCard fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#e6edf3;
     class A,B,C stepCard;
 ```
 
