@@ -82,9 +82,9 @@ Here is a quick overview of my key skills and self-rating based on my day-to-day
 
 ### 🤖 Artificial Intelligence & Agentic Workflows
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Autonomous AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-FF4655?style=for-the-badge&logo=robotframework&logoColor=white)
+![Autonomous AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-6C5CE7?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-00C9A7?style=for-the-badge&logo=temporal&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Task Execution Pipelines](https://img.shields.io/badge/Task_Execution_Pipelines-00B894?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -122,7 +122,7 @@ Here is a quick overview of my key skills and self-rating based on my day-to-day
 ![Redis](https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL_Server-CC292B?style=for-the-badge&logo=microsoft&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -239,7 +239,7 @@ Here is a quick overview of my key skills and self-rating based on my day-to-day
 ### 4. 🏢 Vistaran AI Employees & Core Products
 > **AI digital workers and software tools built for daily business workflows at [Vistaran Techtronix](https://vistaran.com).**
 
-![Autonomous AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-FF4655?style=for-the-badge&logo=robotframework&logoColor=white)
+![Autonomous AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-6C5CE7?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
