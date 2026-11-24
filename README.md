@@ -237,11 +237,11 @@ Here is a quick overview of my key skills and self-rating based on my day-to-day
 ### 4. 🏢 Vistaran AI Employees & Core Products
 > **AI digital workers and software tools built for daily business workflows at [Vistaran Techtronix](https://vistaran.com).**
 
-![Autonomous AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-6C5CE7?style=for-the-badge&logo=dependabot&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - 🤖 **AI Task Automation:** Built AI workers for **Vistaran AI Employees** that can read data, trigger external APIs, and complete multi-step tasks on their own.
 - 🚀 **35% Faster Response Times:** Cleaned up database queries and added a **Redis cache**, cutting average API response times by **35%**.
