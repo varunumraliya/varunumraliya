@@ -48,7 +48,7 @@ Currently, I work at **[Vistaran Techtronix Pvt. Ltd.](https://vistaran.com)** i
 I enjoy solving real-world problems and turning ideas into clean, fast, and easy-to-use software using **React, Next.js, TypeScript, Node.js, Laravel, Redis, and AWS**.
 
 ### ⚡ What I Do Best
-- 🤖 **AI Workers & Automation:** Building smart AI agents and multi-step workflows (using Gemini and Claude) that connect with APIs to automate daily tasks.
+- 🤖 **Autonomous AI & Task Pipelines:** Building autonomous AI agents, multi-agent workflows, and LLM harnesses (Hermes Agent, Codex, Claude, Antigravity) that execute multi-step task pipelines.
 - 🌐 **Full-Stack Web & Mobile Apps:** Developing responsive websites and cross-platform mobile apps with Next.js, React, React Native, and Laravel.
 - 🚀 **Speed & Optimization:** Improving database queries in PostgreSQL/MySQL and adding Redis caching (made API response times **35% faster**).
 - 💳 **Payments & Integrations:** Connecting third-party services like Stripe, Razorpay, Twilio, WhatsApp API, and Shopify.
@@ -66,7 +66,7 @@ Here is a quick overview of my key skills and self-rating based on my day-to-day
 | :--- | :---: | :---: | :--- |
 | **Frontend Development**<br>*(React.js, Next.js, TypeScript)* | **95%** | <img src="https://geps.dev/progress/95" alt="95%" /> | Next.js 14/15, React, TypeScript, Tailwind CSS, clean UI components, and fast page loads. |
 | **Backend & Real-Time APIs**<br>*(Node.js, Express, Socket.io)* | **92%** | <img src="https://geps.dev/progress/92" alt="92%" /> | Fast REST APIs, live chat with WebSockets, and secure login with JWT. |
-| **AI Workers & Automation**<br>*(AI Agents, Multi-Step Workflows)* | **90%** | <img src="https://geps.dev/progress/90" alt="90%" /> | AI agents, tool-calling pipelines, Gemini and Claude models, and automated workflows. |
+| **Artificial Intelligence & LLMs**<br>*(Agents & Workflows)* | **90%** | <img src="https://geps.dev/progress/90" alt="90%" /> | LLM Harnesses (Hermes Agent, Codex, Claude, Antigravity), Autonomous AI Agents, Multi-Agent Workflows, and Task Execution Pipelines. |
 | **SaaS & Web Development**<br>*(PHP, Laravel, REST)* | **88%** | <img src="https://geps.dev/progress/88" alt="88%" /> | Laravel apps, database structure, background queues, and user subscription billing. |
 | **Databases & Caching**<br>*(PostgreSQL, MySQL, Redis)* | **88%** | <img src="https://geps.dev/progress/88" alt="88%" /> | Writing clean queries, adding database indexes, and using Redis to speed up data access. |
 | **Cloud & Deployment**<br>*(AWS, Lambda, S3, Docker)* | **85%** | <img src="https://geps.dev/progress/85" alt="85%" /> | AWS Lambda for serverless jobs, S3 for file storage, and Docker containers. |
@@ -80,14 +80,11 @@ Here is a quick overview of my key skills and self-rating based on my day-to-day
 <!-- ========================================================================= -->
 ## 💻 Tech Stack
 
-### 🤖 Artificial Intelligence & Agentic Workflows
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+### 🤖 Artificial Intelligence & LLMs
+![LLM Harnesses](https://img.shields.io/badge/LLM_Harnesses-Hermes_Agent_%7C_Codex_%7C_Claude_%7C_Antigravity-8E75C2?style=for-the-badge)
 ![Autonomous AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-6C5CE7?style=for-the-badge&logo=dependabot&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-00C9A7?style=for-the-badge&logo=temporal&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Multi-Agent Workflows](https://img.shields.io/badge/Multi--Agent_Workflows-00C9A7?style=for-the-badge&logo=temporal&logoColor=white)
 ![Task Execution Pipelines](https://img.shields.io/badge/Task_Execution_Pipelines-00B894?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🎨 Frontend Engineering
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -106,6 +103,7 @@ Here is a quick overview of my key skills and self-rating based on my day-to-day
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
@@ -260,6 +258,26 @@ Here is a quick overview of my key skills and self-rating based on my day-to-day
 | :---: | :--- | :--- | :--- |
 | **Sep 2024 - Present** | **Full Stack Developer** | **[Vistaran Techtronix Pvt. Ltd.](https://vistaran.com)**<br>📍 *Gandhinagar, Gujarat, India* | • Built AI digital workers and automated task pipelines<br>• Developed core products: *Vistaran AI Employees, Laabh POS, The Accessbox, Help Me Buddy*<br>• Integrated Stripe, Razorpay, WebSockets, Twilio, WhatsApp API, and AWS<br>• Added Redis caching and tuned queries, making APIs **35% faster** |
 | **Oct 2023 - Dec 2023** | **MERN Stack Developer Intern** | **Trioncy Solution**<br>📍 *Ahmedabad, Gujarat, India* | • Built responsive React.js UI components and web pages<br>• Developed backend REST APIs and database features using Node.js, Express, and MongoDB |
+
+<br/>
+
+<details open>
+<summary><b>📋 Detailed Responsibilities & Work Summary</b></summary>
+<br/>
+
+#### 🔹 Full Stack Developer | [Vistaran Techtronix Pvt. Ltd.](https://vistaran.com)
+*Sep 2024 - Present • Gandhinagar, India*
+- **AI Digital Workers:** Designed and built automated AI agents for *Vistaran AI Employees* that can call external APIs and complete multi-step tasks automatically.
+- **Production Web & Mobile Apps:** Built and maintained applications using **React, Next.js, TypeScript, Node.js, Angular, and Laravel** across 4 main products (*Vistaran AI Employees, Laabh POS, The Accessbox, Help Me Buddy*).
+- **Payment & Messaging Systems:** Integrated Stripe and Razorpay payment gateways, WebSockets, Twilio SMS, WhatsApp messaging, and AWS services.
+- **Performance Improvements:** Improved PostgreSQL and MySQL database queries and set up a Redis caching layer, making APIs **35% faster** under heavy use.
+
+#### 🔹 MERN Stack Developer Intern | Trioncy Solution
+*Oct 2023 - Dec 2023 • Ahmedabad, India*
+- Built responsive user interfaces and components in React.js.
+- Developed backend REST APIs with Node.js and Express.js, and handled MongoDB database operations.
+
+</details>
 
 ---
 
