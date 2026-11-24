@@ -3,15 +3,17 @@
 <!-- ========================================================================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,26,42,10,37,64&height=200&section=header&text=Varun%20Umraliya&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Forward%20Deployed%20Engineer%20%7C%20Full%20Stack%20%26%20Agentic%20AI%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Varun Umraliya Banner" />
+<img src="./banner.svg" width="100%" alt="Varun Umraliya Banner" />
+
+<br/><br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=61DAFB&center=true&vCenter=true&width=750&lines=Forward+Deployed+Engineer;Full+Stack+%26+Agentic+AI+Developer;Building+Autonomous+AI+Agents+%26+Task+Execution+Pipelines;Architecting+High-Performance+SaaS+Platforms;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%7C+Laravel+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=61DAFB&center=true&vCenter=true&width=750&lines=Forward+Deployed+Engineer;Full+Stack+%26+Agentic+AI+Developer;Building+Autonomous+AI+Agents+%26+Task+Pipelines;Architecting+High-Performance+SaaS+Platforms;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%7C+Laravel+%7C+AWS" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <b>Gandhinagar, Gujarat, India</b> &nbsp;|&nbsp;
-  <b>2+ Years Building Production Systems & Autonomous AI Pipelines</b>
+  <b>2+ Years Building Production Systems &amp; Autonomous AI Pipelines</b>
 </p>
 
 <!-- Social & Quick Action Badges -->
@@ -41,7 +43,7 @@
 
 I am a **Forward Deployed Engineer & Agentic AI Developer** with over **2 years of production experience** engineering autonomous AI agents, automated task execution pipelines, and high-velocity full-stack SaaS applications.
 
-Currently, I work at **Vistaran Techtronix Pvt. Ltd.** in Gandhinagar, India, where I architect enterprise-grade AI digital workers, multi-tenant billing systems, and customer-facing web and mobile applications across multiple flagship products.
+Currently, I work at **[Vistaran Techtronix Pvt. Ltd.](https://vistaran.com)** in Gandhinagar, India, where I architect enterprise-grade AI digital workers, multi-tenant billing systems, and customer-facing web and mobile applications across multiple flagship products.
 
 I thrive at the intersection of **cutting-edge Artificial Intelligence** and **robust software architecture**, bridging customer requirements into lightning-fast, production-ready code with **Next.js, React, TypeScript, Node.js, Laravel, Redis, and AWS**.
 
@@ -80,13 +82,13 @@ Here is an honest self-assessment of my core competencies, reflecting hands-on p
 
 ### 🤖 Artificial Intelligence & Agentic Workflows
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Autonomous AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-FF6B6B?style=for-the-badge&logo=probot&logoColor=white)
-![Multi-Agent Workflows](https://img.shields.io/badge/Multi--Agent_Workflows-4ECDC4?style=for-the-badge&logo=diagram-next&logoColor=white)
-![LLM Harnesses](https://img.shields.io/badge/LLM_Harnesses-6C5CE7?style=for-the-badge&logo=openai&logoColor=white)
-![Task Pipelines](https://img.shields.io/badge/Task_Execution_Pipelines-00B894?style=for-the-badge&logo=fastapi&logoColor=white)
+![Autonomous AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-FF6B6B?style=for-the-badge)
+![Multi-Agent Workflows](https://img.shields.io/badge/Multi--Agent_Workflows-00C9A7?style=for-the-badge)
+![LLM Harnesses](https://img.shields.io/badge/LLM_Harnesses-6C5CE7?style=for-the-badge)
+![Task Execution Pipelines](https://img.shields.io/badge/Task_Execution_Pipelines-00B894?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🎨 Frontend Engineering
-![Next.js](https://img.shields.io/badge/Next.js_14%2F15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -104,7 +106,7 @@ Here is an honest self-assessment of my core competencies, reflecting hands-on p
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![REST APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 📱 Mobile Development
@@ -153,14 +155,14 @@ Here is an honest self-assessment of my core competencies, reflecting hands-on p
 ### 1. [Boomerr - Website Monitoring & Analytics SaaS Platform](https://boomerr.ai)
 > **High-availability SaaS platform monitoring website uptime, SSL certificates, performance, and domain health in real time.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Site-boomerr.ai-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://boomerr.ai)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Site-boomerr.ai-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://boomerr.ai)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 - 🌐 **Distributed Multi-Region Engine:** Built an automated monitoring engine utilizing **AWS Lambda and Node.js** to track site availability across global nodes, achieving **99.9% uptime tracking precision**.
 - ⚡ **Sub-2-Second Webhook Alerts:** Engineered an instant notification dispatcher streaming outage and latency alerts in **< 2 seconds** directly across Slack, Discord, and WhatsApp.
@@ -194,13 +196,13 @@ Here is an honest self-assessment of my core competencies, reflecting hands-on p
 ### 2. [Ai SEO Wizard - AI-Powered Shopify SEO Application](https://seowizard.allgoodseo.com)
 > **Enterprise Shopify application automating on-page SEO, rich snippets, and metadata generation using Gemini AI.**
 
-[![Live Demo](https://img.shields.io/badge/Live_App-seowizard.allgoodseo.com-9b51e0?style=for-the-badge&logo=shopify&logoColor=white)](https://seowizard.allgoodseo.com)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini_AI-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
-![Shopify APIs](https://img.shields.io/badge/Shopify_API-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_App-Shopify_Store-9b51e0?style=for-the-badge&logo=shopify&logoColor=white)](https://seowizard.allgoodseo.com)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Shopify APIs](https://img.shields.io/badge/Shopify_APIs-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 - 🧠 **75% Time Reduction via Gemini AI:** Integrated **Google Gemini AI** to automatically generate high-converting SEO meta tags, JSON-LD structured data, and keyword optimizations for unlimited Shopify catalog items.
 - 🖼️ **Automated Asset Optimization:** Implemented automated WebP image transcoding, dynamic alt-tag injection, and broken-link discovery sweeps.
@@ -218,13 +220,13 @@ Here is an honest self-assessment of my core competencies, reflecting hands-on p
 ### 3. [Lushly - Urban Gardening & Plant Care Mobile Platform](https://lushlyapp.com)
 > **Cross-platform mobile application facilitating plant care subscriptions, real-time gardener dispatching, and in-app consultations.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Platform-lushlyapp.com-27ae60?style=for-the-badge&logo=googleplay&logoColor=white)](https://lushlyapp.com)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo Router](https://img.shields.io/badge/Expo_Router-1B1F23?style=flat-square&logo=expo&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_App-lushlyapp.com-27ae60?style=for-the-badge&logo=google-play&logoColor=white)](https://lushlyapp.com)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo_Router-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 - 📱 **Cross-Platform Excellence:** Crafted smooth native experiences for iOS & Android using **React Native and Expo Router**, with offline-first state caching and reactive UI layouts.
 - 💬 **Real-Time Communication & Booking:** Engineered a smart gardener slot reservation scheduler and dynamic in-app live chat via **WebSockets and Laravel**.
@@ -233,17 +235,31 @@ Here is an honest self-assessment of my core competencies, reflecting hands-on p
 ---
 
 ### 4. 🏢 Vistaran AI Employees & Core Enterprise Platforms
-> **Production AI workers and multi-tenant platforms powering digital operations at Vistaran Techtronix.**
+> **Production AI workers and multi-tenant platforms powering digital operations at [Vistaran Techtronix](https://vistaran.com).**
 
-![Autonomous Agents](https://img.shields.io/badge/Autonomous_AI_Agents-FF6B6B?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis_Cache-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Autonomous AI Agents](https://img.shields.io/badge/Autonomous_AI_Agents-FF6B6B?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - 🤖 **Autonomous AI Task Execution:** Architected task execution pipelines for **Vistaran AI Employees**, empowering digital workers to trigger external APIs, parse documents, and execute multi-step workflows.
 - 🚀 **35% Latency Reduction:** Refactored relational queries and designed an intelligent **Redis caching layer**, eliminating production database bottlenecks and cutting average API response times by **35%**.
 - 🛠️ **Multi-Product Deployment:** Built and scaled features across 4 core products: *Vistaran AI Employees*, *Laabh POS*, *The Accessbox*, and *Help Me Buddy*.
+
+---
+
+<!-- ========================================================================= -->
+<!-- OPEN SOURCE & PERSONAL PROJECTS                                           -->
+<!-- ========================================================================= -->
+## 📦 Open Source & Personal Repositories
+
+| Repository | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **[YouTube Transcript Summarizer](https://github.com/varunumraliya/youtube-transcript-summarizer)** | Automated AI application to extract, parse, and generate structured summaries from YouTube video transcripts. | Python • NLP • AI | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/varunumraliya/youtube-transcript-summarizer) |
+| **[Keep Notes](https://github.com/varunumraliya/keep-notes)** | Full-stack note-taking platform with rich text editing, categorization, and cloud synchronization. | React • Node.js • Express • MongoDB | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/varunumraliya/keep-notes) |
+| **[Blog App](https://github.com/varunumraliya/blog-app)** | Dynamic blogging platform with markdown support, user authentication, and interactive comment streams. | React • Node.js • REST APIs | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/varunumraliya/blog-app) |
+| **[Weather WebApp](https://github.com/varunumraliya/weather-webapp)** | Real-time weather forecasting application with geolocation lookup, dynamic weather icons, and hourly breakdowns. | JavaScript • Weather APIs • CSS3 | [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/varunumraliya/weather-webapp) |
 
 ---
 
@@ -301,15 +317,10 @@ flowchart LR
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunumraliya&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" height="175" alt="Varun's GitHub Streak" />
 </p>
 
-<!-- Top Languages Card -->
+<!-- Top Languages Card & Quote -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunumraliya&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="175" alt="Top Languages" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="175" alt="Developer Quote" />
-</p>
-
-<!-- GitHub Profile Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varunumraliya&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <!-- Activity Graph -->
