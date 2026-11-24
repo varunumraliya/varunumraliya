@@ -261,26 +261,6 @@ Here is a quick overview of my key skills and self-rating based on my day-to-day
 | **Sep 2024 - Present** | **Full Stack Developer** | **[Vistaran Techtronix Pvt. Ltd.](https://vistaran.com)**<br>📍 *Gandhinagar, Gujarat, India* | • Built AI digital workers and automated task pipelines<br>• Developed core products: *Vistaran AI Employees, Laabh POS, The Accessbox, Help Me Buddy*<br>• Integrated Stripe, Razorpay, WebSockets, Twilio, WhatsApp API, and AWS<br>• Added Redis caching and tuned queries, making APIs **35% faster** |
 | **Oct 2023 - Dec 2023** | **MERN Stack Developer Intern** | **Trioncy Solution**<br>📍 *Ahmedabad, Gujarat, India* | • Built responsive React.js UI components and web pages<br>• Developed backend REST APIs and database features using Node.js, Express, and MongoDB |
 
-<br/>
-
-<details open>
-<summary><b>📋 Detailed Responsibilities & Work Summary</b></summary>
-<br/>
-
-#### 🔹 Full Stack Developer | [Vistaran Techtronix Pvt. Ltd.](https://vistaran.com)
-*Sep 2024 - Present • Gandhinagar, India*
-- **AI Digital Workers:** Designed and built automated AI agents for *Vistaran AI Employees* that can call external APIs and complete multi-step tasks automatically.
-- **Production Web & Mobile Apps:** Built and maintained applications using **React, Next.js, TypeScript, Node.js, Angular, and Laravel** across 4 main products (*Vistaran AI Employees, Laabh POS, The Accessbox, Help Me Buddy*).
-- **Payment & Messaging Systems:** Integrated Stripe and Razorpay payment gateways, WebSockets, Twilio SMS, WhatsApp messaging, and AWS services.
-- **Performance Improvements:** Improved PostgreSQL and MySQL database queries and set up a Redis caching layer, making APIs **35% faster** under heavy use.
-
-#### 🔹 MERN Stack Developer Intern | Trioncy Solution
-*Oct 2023 - Dec 2023 • Ahmedabad, India*
-- Built responsive user interfaces and components in React.js.
-- Developed backend REST APIs with Node.js and Express.js, and handled MongoDB database operations.
-
-</details>
-
 ---
 
 <!-- ========================================================================= -->
